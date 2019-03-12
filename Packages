@@ -12,7 +12,7 @@ Name: New Package
 Author: Brian <brianjliu@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.brianjliu.oldpackage
+Package: com.brianjliu.tweak1
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Brian <brianjliu@gmail.com>
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+Description: Test Tweak1
+Name: Tweak1
 Author: Brian <brianjliu@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://brianjliu.github.io/Repo/depictions/?p=com.brianjliu.tweak1
